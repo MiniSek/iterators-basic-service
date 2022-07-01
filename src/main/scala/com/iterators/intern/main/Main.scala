@@ -1,23 +1,14 @@
-package com.iterators.intern
+package com.iterators.intern.main
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http
-import akka.http.scaladsl.server.Directives._
-import akka.http.scaladsl.server.Route
+import com.iterators.intern.healthcheck.routers.HealthCheckRouter
 import com.typesafe.config.ConfigFactory
 
 import scala.concurrent.ExecutionContextExecutor
 
 
-trait Router {
-  val routes: Route = path("health") {
-    get {
-      complete("Health check response")
-    }
-  }
-}
-
-object AkkaBasicApplication extends App with Router {
+object Main extends App with HealthCheckRouter {
   implicit val system: ActorSystem = ActorSystem()
   implicit val executor: ExecutionContextExecutor = system.dispatcher
 
