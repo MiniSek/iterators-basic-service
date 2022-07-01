@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /mnt/HDD/praca/basic/basic-application/target/scala-2.13/basic-application_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/HDD/praca/basic/basic-application/target/scala-2.13/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/HDD/praca/basic/basic-application/target/scala-2.13/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/iterators[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/HDD/praca/basic/basic-application/target/scala-2.13/classes/com/iterators[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/iterators/intern[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/HDD/praca/basic/basic-application/target/scala-2.13/classes/com/iterators/intern[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/iterators/intern/AkkaBasicApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/HDD/praca/basic/basic-application/target/scala-2.13/classes/com/iterators/intern/AkkaBasicApplication$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/iterators/intern/AkkaBasicApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/HDD/praca/basic/basic-application/target/scala-2.13/classes/com/iterators/intern/AkkaBasicApplication$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/iterators/intern/AkkaBasicApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/HDD/praca/basic/basic-application/target/scala-2.13/classes/com/iterators/intern/AkkaBasicApplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/iterators/intern/Router.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/HDD/praca/basic/basic-application/target/scala-2.13/classes/com/iterators/intern/Router.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/HDD/praca/basic/basic-application/target/scala-2.13/classes/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
